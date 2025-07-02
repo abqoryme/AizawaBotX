@@ -1,0 +1,35 @@
+[
+  {
+    "user": "6285715771858@s.whatsapp.net",
+    "product": "Burger",
+    "price": 5,
+    "date": "2025-07-01T06:57:27.987Z"
+  },
+  {
+    "user": "6285715771858@s.whatsapp.net",
+    "product": "Burger",
+    "price": 5000,
+    "date": "2025-07-01T07:04:51.643Z"
+  },
+  {
+    "user": "6285715771858@s.whatsapp.net",
+    "product": "Burger",
+    "price": 5000,
+    "date": "2025-07-01T07:10:34.028Z"
+  },
+  {
+    "user": "6285715771858@s.whatsapp.net",
+    "product": "Kaos Polos",
+    "price": 50000,
+    "date": "2025-07-01T09:11:45.163Z"
+  },
+  {
+    "orderId": "ORD1751363051498",
+    "user": "6285715771858@s.whatsapp.net",
+    "product": "Burger",
+    "price": 5000,
+    "status": "pending",
+    "invoiceUrl": "https://mybot.shop/invoice/ORD1751363051498",
+    "createdAt": "2025-07-01T09:44:11.498Z"
+  }
+]

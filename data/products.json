@@ -1,0 +1,17 @@
+{
+  "produk1": {
+    "name": "Kaos Polos",
+    "price": 50000,
+    "desc": "Bahan cotton combed 30s"
+  },
+  "produk2": {
+    "name": "Jaket Hoodie",
+    "price": 120000,
+    "desc": "Hoodie tebal nyaman dipakai"
+  },
+  "p1751352888435": {
+    "name": "Burger",
+    "price": 5000,
+    "desc": "Burger mini 🍔"
+  }
+}

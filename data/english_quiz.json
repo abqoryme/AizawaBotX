@@ -1,0 +1,82 @@
+[
+  {
+    "q": "Translate to English: 'kucing'",
+    "a": "cat"
+  },
+  {
+    "q": "Translate to English: 'anjing'",
+    "a": "dog"
+  },
+  {
+    "q": "Translate to English: 'rumah'",
+    "a": "house"
+  },
+  {
+    "q": "Translate to English: 'sekolah'",
+    "a": "school"
+  },
+  {
+    "q": "Translate to English: 'makan'",
+    "a": "eat"
+  },
+  {
+    "q": "Translate to English: 'minum'",
+    "a": "drink"
+  },
+  {
+    "q": "Translate to English: 'buku'",
+    "a": "book"
+  },
+  {
+    "q": "Translate to English: 'pena'",
+    "a": "pen"
+  },
+  {
+    "q": "Translate to English: 'meja'",
+    "a": "table"
+  },
+  {
+    "q": "Translate to English: 'kursi'",
+    "a": "chair"
+  },
+  {
+    "q": "Translate to English: 'sepeda'",
+    "a": "bicycle"
+  },
+  {
+    "q": "Translate to English: 'mobil'",
+    "a": "car"
+  },
+  {
+    "q": "Translate to English: 'matahari'",
+    "a": "sun"
+  },
+  {
+    "q": "Translate to English: 'bulan'",
+    "a": "moon"
+  },
+  {
+    "q": "Translate to English: 'air'",
+    "a": "water"
+  },
+  {
+    "q": "Translate to English: 'api'",
+    "a": "fire"
+  },
+  {
+    "q": "Translate to English: 'tanah'",
+    "a": "earth"
+  },
+  {
+    "q": "Translate to English: 'laut'",
+    "a": "sea"
+  },
+  {
+    "q": "Translate to English: 'langit'",
+    "a": "sky"
+  },
+  {
+    "q": "Translate to English: 'bunga'",
+    "a": "flower"
+  }
+]
