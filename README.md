@@ -1,6 +1,6 @@
 # AizawaBotX
 <p align="center">
-  <img src="https://github.com/abqoryme/AizawaBotX/blob/main/media/thumb.jpg" width="600" alt="AizawaBotX Banner"/>
+  <img src="https://gifdb.com/images/high/chika-homura-haruta-kamijou-as-kids-anime-gxsqotmhayrki1sf.webp" width="600" alt="AizawaBotX Banner"/>
 </p>
 
 <h1 align="center">AizawaBotX 🤖</h1>
@@ -17,7 +17,6 @@
 ---
 
 ## 🚀 Fitur Unggulan
-
 ✅ Modular command handler  
 ✅ Live reload command (tanpa restart bot)  
 ✅ Custom command JSON  
