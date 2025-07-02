@@ -1,6 +1,6 @@
 # AizawaBotX
 <p align="center">
-  <img src="https://your-repo-url.com/assets/banner.png" width="600" alt="AizawaBotX Banner"/>
+  <img src="https://github.com/abqoryme/AizawaBotX/blob/main/media/thumb.jpg" width="600" alt="AizawaBotX Banner"/>
 </p>
 
 <h1 align="center">AizawaBotX 🤖</h1>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/AizawaBotX/media/thumb.jpg" width="400" alt="AizawaBotX Screenshot"/>
+  <img src="https://github.com/abqoryme/AizawaBotX/blob/main/media/thumb.jpg" width="400" alt="AizawaBotX Screenshot"/>
 </p>
 
 ---
