@@ -1,0 +1,28 @@
+{
+  "name": "bot-whatsapp",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp menggunakan @fizzxydev/baileys-pro",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp-bot",
+    "baileys",
+    "fizzxydev",
+    "bot"
+  ],
+  "author": "Seiii Sekai",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@latest",
+    "pino": "^8.17.0",
+    "fluent-ffmpeg": "latest",
+    "ffmpeg-static": "latest",
+    "node-webpmux": "latest",
+    "date-fns": "latest",
+    "dayjs": "latest",
+    "chalk": "latest"
+  }
+}
